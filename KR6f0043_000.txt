@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說摩訶衍寶嚴經
+#+DATE: 2015-08-30 20:01:46.449141
+#+PROPERTY: JUAN 0
